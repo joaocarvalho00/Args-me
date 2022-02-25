@@ -17,3 +17,5 @@ It was my first time utilizing these kind of tools so I tried to do a bit of eve
 This was a project to get a feel for the packages and try to have some hands-on experience as the only experience I had with this beforehand was doing some online courses on AI and Deep Learning.
 
 If it's interesting for you, I remember I had around 65% accuracy even when increasing the complexity of the model, switching from simpler tree-based models to BERT the accuracy didn't change much, so maybe it needed more data or just a better processing of the data.
+
+PS: I've added a "Logs" folder that has some accuracy and loss curves that I made at different stages of this project
